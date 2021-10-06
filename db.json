@@ -1,0 +1,28 @@
+{
+  "Users": [
+    {
+      "id": 2,
+      "name": "dileep",
+      "email": "dileep@react.com",
+      "designation": " bde"
+    },
+    {
+      "id": "f9f28df3-6737-4458-8f3b-0529a439cf7b",
+      "name": "gajendra prtap",
+      "email": "gajendra@react.com",
+      "designation": "react"
+    },
+    {
+      "id": "c9fa939b-cd22-4d28-bf1b-7465ad631b9c",
+      "name": "rishu",
+      "email": "rishu@react",
+      "designation": "stack"
+    },
+    {
+      "id": "24014b0b-9bd5-4606-ad06-7b2928ee143a",
+      "name": "depu",
+      "email": "depu@gmail.com",
+      "designation": "native"
+    }
+  ]
+}
